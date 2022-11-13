@@ -1,0 +1,5 @@
+com\zhl\stater\ApplicationStater.class
+com\zhl\stater\config\PlayConfig.class
+com\zhl\stater\service\PlayService.class
+META-INF\spring-configuration-metadata.json
+com\zhl\stater\config\Properties.class

@@ -1,0 +1,7 @@
+server:
+  port: 9001
+
+zhl:
+  age: 19
+  name: 仲寒露
+  play: 打飞机

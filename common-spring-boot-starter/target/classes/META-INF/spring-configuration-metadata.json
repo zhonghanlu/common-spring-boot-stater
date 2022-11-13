@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "zhl",
+      "type": "com.zhl.stater.config.Properties",
+      "sourceType": "com.zhl.stater.config.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "zhl.age",
+      "type": "java.lang.String",
+      "sourceType": "com.zhl.stater.config.Properties"
+    },
+    {
+      "name": "zhl.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zhl.stater.config.Properties"
+    },
+    {
+      "name": "zhl.play",
+      "type": "java.lang.String",
+      "sourceType": "com.zhl.stater.config.Properties"
+    }
+  ],
+  "hints": []
+}
